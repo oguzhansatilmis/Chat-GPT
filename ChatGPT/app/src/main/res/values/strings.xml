@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding">Lorem <font color="#4AA081">Ipsum dolor sit</font> </string>
+    <string name="onboarding_tv2">Ask the bot anything, It’s\n always ready to help!</string>
+    <string name="onboarding_tv3">Get the best answers from our application \nEnjoy!</string>
+    <string name="chat_tv">Chat<font color="#4AA081">GPT</font></string>
+</resources>
